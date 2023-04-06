@@ -1,0 +1,5 @@
+1.
+sudo pip3 install mtcnn-opencv
+sudo pip3 install mtcnn
+pip3 show mtcnn
+pip3 show mtcnn-opencv 
